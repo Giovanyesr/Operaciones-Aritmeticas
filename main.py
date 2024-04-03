@@ -1,7 +1,7 @@
 def mcd(a, b):
     """
     Función para calcular el máximo común divisor (MCD) de dos números.
-
+    Hola Giovany
     Args:
     a (int): El primer número entero.
     b (int): El segundo número entero.
